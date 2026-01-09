@@ -9,4 +9,4 @@ ENV RESOLUTION=1280x720
 ENV HTTP_PASSWORD=rahasia123
 
 # Image ini secara default berjalan di port 80
-EXPOSE 6080
+EXPOSE 80
